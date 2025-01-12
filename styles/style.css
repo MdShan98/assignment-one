@@ -254,11 +254,13 @@ main{
     padding: 13px;
     border: none;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 /* donate styles starts */
 .donate{
     text-align: center;
+    margin: 80px 0px;
 }
 .donate-des p{
     color: rgba(14, 14, 14, 0.7);
@@ -284,4 +286,33 @@ main{
     text-align: center;
     margin: 32px 0px;
     border: none;
+}
+
+/* subscribe section starts here */
+
+.subs{
+    text-align: center;
+    border-radius: 24px;
+    background-color: rgba(198, 228, 214, 1);
+    padding: 80px 100px;
+}
+.subs p{
+    color: rgba(14, 14, 14, 0.7);
+}
+.in-btn input{
+    width: 60%;
+    padding: 18px;
+    border: none;
+    border-radius: 8px;
+}
+.in-btn{
+    border-radius: 8px;
+}
+.subs-btn{
+    padding: 17px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    background-color: rgba(0, 106, 80, 1);
+    cursor: pointer;
 }

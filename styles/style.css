@@ -255,3 +255,33 @@ main{
     border: none;
     border-radius: 8px;
 }
+
+/* donate styles starts */
+.donate{
+    text-align: center;
+}
+.donate-des p{
+    color: rgba(14, 14, 14, 0.7);
+}
+.taka-container{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 24px;
+}
+.taka-item{
+    border-radius: 16px;
+    padding: 40px;
+    border: 1px solid black;
+    cursor: pointer;
+    border: none;
+}
+.taka-item:hover{
+    background-color: rgba(198, 228, 214, 1);
+}
+.other-in input{
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+    margin: 32px 0px;
+    border: none;
+}

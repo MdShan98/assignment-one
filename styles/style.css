@@ -316,3 +316,17 @@ main{
     background-color: rgba(0, 106, 80, 1);
     cursor: pointer;
 }
+/* footer section starts here */
+
+.end{
+    text-align: center;
+    margin-top: 80px;
+    padding: 50px;
+}
+.f-img{
+    text-align: center;
+    margin-top: 20px;
+}
+.f-img a{
+    padding: 10px;
+}
